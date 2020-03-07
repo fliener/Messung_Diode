@@ -1,0 +1,246 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<title>Strom- Spannungskennlinie</title>
+<script src="javascript.js" language="JavaScript1.2" charset="utf-8"></script>
+</head>
+
+<body>
+<div id="content">
+<table width="100%">
+<tbody>
+<tr>
+<li><a href="index.htm" id="index">
+Zurück zur Übersicht
+</li>             
+<td align="left" valign="top" width="75%">
+<center>
+<h2 align="center">Strom- Spannungskennlinie</h2>
+</center>
+<table align="center" border="1" width="80%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="2" cellspacing="2" width="100%">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<b>
+Spannung[V]
+</td>
+<td align="center" valign="top">
+<b>Strom[mA]</b>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_0-->
+</td>
+<td align="center" valign="top">
+<!--#LEDtxt-->
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_1-->
+</td>
+<td align="center" valign="top">
+<!--#1_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_2-->
+</td>
+<td align="center" valign="top">
+<!--#2_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_3-->
+</td>
+<td align="center" valign="top">
+<!--#3_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_4-->
+</td>
+<td align="center" valign="top">
+<!--#4_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_5-->
+</td>
+<td align="center" valign="top">
+<!--#5_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_6-->
+</td>
+<td align="center" valign="top">
+<!--#6_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_7-->
+</td>
+<td align="center" valign="top">
+<!--#7_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_8-->
+</td>
+<td align="center" valign="top">
+<!--#8_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_9-->
+</td>
+<td align="center" valign="top">
+<!--#9_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_10-->
+</td>
+<td align="center" valign="top">
+<!--#10_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_11-->
+</td>
+<td align="center" valign="top">
+<!--#11_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_12-->
+</td>
+<td align="center" valign="top">
+<!--#12_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_13-->
+</td>
+<td align="center" valign="top">
+<!--#13_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_14-->
+</td>
+<td align="center" valign="top">
+<!--#14_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_15-->
+</td>
+<td align="center" valign="top">
+<!--#15_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_16-->
+</td>
+<td align="center" valign="top">
+<!--#16_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_17-->
+</td>
+<td align="center" valign="top">
+<!--#17_Var-->
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_18-->
+</td>
+<td align="center" valign="top">
+<!--#18_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_19-->
+</td>
+<td align="center" valign="top">
+<!--#19_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_20-->
+</td>
+<td align="center" valign="top">
+<!--#20_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_21-->
+</td>
+<td align="center" valign="top">
+<!--#21_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_22-->
+</td>
+<td align="center" valign="top">
+<!--#22_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_23-->
+</td>
+<td align="center" valign="top">
+<!--#23_Var-->     
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--#Spann_24-->
+</td>
+<td align="center" valign="top">
+<!--#24_Var-->     
+</td>
+</tr>
+</tbody>
+</table>
+</form>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</body>
+</html>
